@@ -42,6 +42,7 @@ body {
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+    width: 150px;
 }
 .main {
     display: flex;
@@ -59,12 +60,13 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    max-width: 50%;
+    align-items: center;
+    max-width: 70%;
 }
 .main .right-main {
     display: flex;
     justify-content: center;
-    max-width: 50%;
+    max-width: 30%;
 }
 
 
@@ -137,7 +139,6 @@ footer {
     color: #E5E7EB;
     padding: 40px;
 }
-
 
 
 
